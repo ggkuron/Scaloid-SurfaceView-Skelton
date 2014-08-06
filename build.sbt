@@ -4,7 +4,7 @@ android.Plugin.androidBuild
 
 platformTarget in Android := "android-18"
 
-name := "hello-scaloid-sbt"
+name := "surface-test"
 
 scalaVersion := "2.11.0"
 
