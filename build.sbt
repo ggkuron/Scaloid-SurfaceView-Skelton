@@ -2,6 +2,8 @@ import android.Keys._
 
 android.Plugin.androidBuild
 
+platformTarget in Android := "android-18"
+
 name := "hello-scaloid-sbt"
 
 scalaVersion := "2.11.0"
